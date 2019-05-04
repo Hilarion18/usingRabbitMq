@@ -1,0 +1,11 @@
+{
+  "haloConfig": {
+    "dbConfig": {
+      "host": "prod-db host",
+      "dbName": "prod-db name",
+      "userName": "prod-db userName",
+      "password": "prod-db password",
+      "dialect": "postgres"
+    }
+  }
+}
